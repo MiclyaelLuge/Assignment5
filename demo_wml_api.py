@@ -36,9 +36,9 @@ from ibm_cloud_sdk_core import IAMTokenManager
 url = "https://jp-tok.ml.cloud.ibm.com"
 
 # These global variables will be updated in get_credentials() functions
-watsonx_project_id = "1f4c1f86-3eff-42d2-ab82-9d7a4915dce4"
+watsonx_project_id = ""
 # Replace with your IBM Cloud key
-api_key = "8ZXyO40tGDaI6iSTZaL3wrufPgZoZ8psRQTAuxb5zE1e"
+api_key = ""
 
 def get_credentials():
 
